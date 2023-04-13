@@ -1,0 +1,8 @@
+import bonos.* 
+
+pepe.setBonoResultado()
+
+
+test "sadsd"{
+	assert.that(bonoDependeFaltas)
+}
